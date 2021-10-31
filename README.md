@@ -2,4 +2,4 @@
 
 Checking Pearson's correlation between your cryptos in heatmap. 
 
-*Note:*The datasource supports the coins which listed on Binance!
+**Note:** The datasource supports the coins which listed on Binance!
